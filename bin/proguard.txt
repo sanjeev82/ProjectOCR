@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:39
+-keep class com.flexipay.pancardocr.CaptureActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.flexipay.pancardocr.HelpActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class com.flexipay.pancardocr.PreferencesActivity { <init>(...); }
+
+# view res/layout/capture.xml #generated:27
+-keep class com.flexipay.pancardocr.ViewfinderView { <init>(...); }
+
+# view res/layout/capture.xml #generated:176
+-keep class com.flexipay.pancardocr.camera.ShutterButton { <init>(...); }
+
